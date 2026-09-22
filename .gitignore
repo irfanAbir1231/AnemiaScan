@@ -56,3 +56,5 @@ app.*.map.json
 /.tool_appdata/
 /presentation-work/
 /release/
+
+/release/apkpure/AnemiaScan-icon-512.png
