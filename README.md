@@ -27,10 +27,16 @@ AnemiaScan helps users take more consistent eye or skin photographs, checks whet
 
 The confidence score reflects capture quality and distance from a colour threshold; it is **not** the likelihood that someone has anemia or jaundice.
 
-## Screens
+## App preview
 
 <p align="center">
-  <img src="design-output/anemiascan-main-screens.png" alt="AnemiaScan application screens" width="760" />
+  <img src="assets/store/AnemiaScan-feature-graphic-1024x500.jpg" alt="AnemiaScan feature graphic" width="900" />
+</p>
+
+<p align="center">
+  <img src="assets/store/screenshot-01-onboarding.jpg" alt="AnemiaScan onboarding screen" width="220" />
+  <img src="assets/store/screenshot-02-home.jpg" alt="AnemiaScan home screen" width="220" />
+  <img src="assets/store/screenshot-03-result.jpg" alt="AnemiaScan result screen" width="220" />
 </p>
 
 ## Tech stack
